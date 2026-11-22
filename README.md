@@ -30,7 +30,7 @@ It works fully offline and never touches the network. It is a notebook, not a sc
 - **Every port from 0 to 65535 is answered.** Ports outside the database fall back to your system's service list and show how to identify what is really listening
 - `search` across all notes (for example `search brute`)
 - `save` writes your lookup to `~/port_notes.txt` for your own records
-- **14 random ASCII banners.** One is shown at random on every run, including the SPYxKB banner, the project-name banner and 12 animal roast banners
+- **14 random ASCII banners.** One is shown at random on every run.
 - Colour output, with automatic fallback to plain ASCII on terminals without UTF-8
 - Zero dependencies: Python standard library only
 
@@ -42,7 +42,7 @@ It works fully offline and never touches the network. It is a notebook, not a sc
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/portinfo.git
+git clone https://github.com/Gangolli-Mustaneer/PortInfo.git
 cd portinfo
 chmod +x portinfo.py
 ```
