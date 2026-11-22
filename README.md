@@ -3,7 +3,7 @@
 **A command-line port reference tool for Kali Linux and any Linux system.**
 Type a port number or a service name and get everything you need to remember about it, so you don't have to look it up again.
 
-> *"I Break to Build, I Scan to Secure."* - SPYxKB
+
 
 ---
 
