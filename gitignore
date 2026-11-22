@@ -1,0 +1,40 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Packaging / build output
+build/
+dist/
+*.egg-info/
+
+# Your personal saved lookups (the tool writes ~/port_notes.txt)
+port_notes.txt
+*.notes.txt
+
+# Secrets and local config, never commit these
+.env
+*.key
+*.pem
+*.secret
+
+# Logs and scan output
+*.log
+scan_results/
+*.nmap
+*.gnmap
+
+# Editors and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
