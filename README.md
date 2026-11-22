@@ -139,9 +139,6 @@ This tool only displays reference information. The commands it lists (nmap, hydr
 
 Pull requests that add ports, fix inaccurate notes or add banners are welcome. Please keep every note to the same seven fields so entries stay consistent.
 
-## License
-
-Add the license of your choice here (MIT is a common choice for small tools).
 
 ## Author
 
